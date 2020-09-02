@@ -1,0 +1,28 @@
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- mood_great
+- mood_unhappy
+- busy
+templates:
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+actions:
+- action_greet
+- action_pitch_real_estate
+- action_real_estate_more_1
+- action_real_estate_more_2
+- action_real_estate_more_3
+- action_real_estate_more_4
+- action_real_estate_more_5
+- action_self_storage
+- action_transfer_call
+- action_rebuttles_1
+- action_no_self_storage_1
+- action_no_self_storage_2
+- action_goodbye
+- utter_iamabot
+- action_default_fallback

@@ -1,0 +1,178 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hell ooo
+- hey whos dis
+- hello i m jeff what can i do for you
+- hey i m jeff 
+- hey john here
+- heyaa i m rachel this side
+- its jared
+- well hello whos dis?
+- whos calling
+- whos this
+- i m saurav what can i do for you?
+- Yes who's this.
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- have a nice day
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- indeed
+- of course
+- well yeah]
+- Well yeah one yeah.
+- Yeah I usually do that.
+- Well I do I do I do a lot of my own real estate though but anyway go ahead.
+- it is 
+- right
+- it isss
+- In one now so my real estate sectors probably full.
+- What about I think they're probably a good deal.
+- Yeah.
+- Get a good one independently back in the nineties it is custom attributes in a great way to hold land in good revenue come in in the in the yearly basis.
+- Normally we do
+- Normally we invest
+- That's true I do.
+- Almost years ago but yeah I am familiar with the meeting.
+- Okay yes okay well I.
+- Yeah I see the potential value in that.
+- yeah
+- yeaah
+- yess
+- yesss
+- yup
+- yes done that
+- i m intrested] in self storage
+- i m intrested in real estate
+- yes i will say it sounds intresting
+- yup i will say it sounds intresting
+- What about I think they're probably a good deal.
+- Well yeah one yeah
+- may I have I have I imagine storage but go ahead tell me tell me how you deal structure.
+- Show the way your dealership culture you guys are basically carried but thirty percent is that the way it works.
+- Sure you guys better putting us together you guys are basically carried for a thirty percent interest is that correct.
+- Are you are you selling units are out what do you look and how you how how you doing that.
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- not
+- never
+- No I haven't.
+- Welll no actually
+- well no actually
+- i haven't given it a try
+- actually i still would like to give it a pass
+- nooo i wont be able to continue
+- actually not right now
+- right now its not perfect time to do it
+- I have not but yeah.
+- No I haven't never really mainly my real estate investment then residential commercial.
+- Probably not.
+- Yes not in Texas and Florida.
+- yes but not anymore
+- yup but i dont do it anymore
+- No I haven't but I got a letter from your collection services
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- yes good
+- yes i m good
+- yes fine how about you
+- ya doing well
+- yes fine
+- yup good
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+- correct
+- Okay Dokey
+- Also busy what's her what's on your mind.
+- i m fine thanks
+- I'm doing fine what can I do for you.
+- I'm good.
+- Okayyy
+- Going all right.
+- Know okay good.
+- well yeah
+- alright
+- I'm doing very well thanks for asking.
+- yes how are you
+- indeed how are you
+- of course how are you
+- that sounds good how are you
+- correct how are you
+- Okay Dokey how are you
+- Also busy what's her what's on your mind. how are you
+- i m fine thanks  how are you
+- I'm doing fine what can I do for you. how are you
+- I'm good. how are you
+- Okayyy how are you
+- Going all right. how are you
+- Know okay good. how are you
+- well yeah how are you
+- yes How you doing.
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- i m quite busy can we talk later
+- i m not intrested
+- can you call back me later
+- ohhh this gonna suck
+- sorry i m not intrested
+- never ever call me again
+- i will never be intrested
+- stop wasting my time
+- Also busy what's her what's on your mind
+- I am all right what can I do for you quickly can we work.
+- How do I get so many of these calls pretty hard to describe firm anymore.
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+
+## intent:busy
+- Hello i m driving right now
+- please call me back later
+- i m at hospital
+- cant talk right now
+- in a meeting
+- hey can you please call later
+- i m busy
+- it not possible for me to talk right now
+- hey i m at a funeral
+- kind of busy can you call later
+- cant talk please call later
+- i m in middle of something, cant talk now
